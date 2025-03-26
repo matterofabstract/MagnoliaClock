@@ -104,8 +104,8 @@
     </div>
 
   <!-- Radio Band -->
-   <div class="max-w-[calc(100%-50px)] w-full mx-auto mt-0.5">
-     <div class="min-h-[68px] rounded w-full bg-[#453D3945] flex flex-col items-start justify-center text-white text-xs pl-4 pr-2">
+   <div class="max-w-[calc(100%-50px)] w-full mx-auto mt-0.5 z-10">
+     <div class="min-h-[68px] rounded w-full bg-[#453D3930] flex flex-col items-start justify-center text-white text-xs pl-4 pr-2">
       <div class="flex items-end justify-between w-full italic">
         <div class="px-1 bg-[#6f101c] rounded-sm text-[11px]">FM</div>
         <div class="opacity-80">&nbsp;</div>
@@ -119,8 +119,8 @@
       </div>
 
       <div class="flex items-center justify-between w-full mt-1">
-        <div class="px-3 py-1 bg-[#1b1b1b] rounded w-full">
-          <div class="relative px-3 py-1 bg-[#1e1e1e] rounded">
+        <div class="px-3 py-1 bg-[#121212] rounded w-full">
+          <div class="relative px-3 py-1 bg-[#191919] rounded">
             <div class="absolute left-[calc(50%-10px)] w-[4px] h-[7px] top-0" style="background-image: linear-gradient(180deg, #572114 5%, #A23D26 56%, #AE4027 58%, #A93F27 100%);"></div>
           </div>
         </div>
