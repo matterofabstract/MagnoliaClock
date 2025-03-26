@@ -67,7 +67,7 @@
     </div>
 
     <!-- Main Display -->
-    <div class="flex justify-center items-start w-full h-[83px]">
+    <div class="flex justify-center items-start w-full h-[83px] z-10">
 
       <div class="flex italic font-semibold flex-col justify-start py-2 gap-[9px] h-full items-end pr-2 text-[#2c2c2c]" style="font-family:Arial, Helvetica, sans-serif;">
         <div class="text-[13px]">AM</div>
