@@ -30,7 +30,7 @@
 <div class="w-full h-screen min-h-screen flex flex-col items-center justify-start user-select-none overflow-hidden">
 
   <div class="relative bg-[url('/TOP.png')]  bg-cover bg-center bg-no-repeat w-full h-[250px]">
-    <img src="/GELogoMark.png" alt="Top" class="absolute top-[52px] left-[18px] w-[150px]" />
+    <img src="/GELogoMark.png" alt="Top" class="absolute top-[52px] left-[18px] w-[150px] aspect-auto" />
 
     <div class="absolute bottom-[11px] left-[17px] flex flex-col justify-around items-center gap-0.5">
       <div class="flex items-center justify-center p-1" style="background: #2c170a; box-shadow: inset 1px 0 3px 0 rgba(0,0,0,0.20); border-radius: 5px;">
